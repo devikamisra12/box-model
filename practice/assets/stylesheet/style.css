@@ -1,0 +1,23 @@
+div {
+    box-sizing: border-box;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 10px solid green;
+    margin: 20px;
+    outline: 10px solid ;
+    box-shadow: 0px 0px 10px 25px grey;
+}
+span {
+    box-sizing: border-box;
+    background-color: rgb(41, 63, 63);
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 10px solid pink;
+    margin: 20px;
+    display: inline-block;
+    outline: 10px dashed;
+    box-shadow: 12px 12px 10px 15px grey,17px 17px 10px 20px rgb(233, 154, 154);
+}
